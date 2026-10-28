@@ -1,0 +1,1 @@
+genhtml report/coverage.info --output-directory report/html --quiet
